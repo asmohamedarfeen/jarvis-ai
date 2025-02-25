@@ -1,0 +1,1 @@
+d: & cd D:\\project final\\javis the voice assistant & python main_video.py
